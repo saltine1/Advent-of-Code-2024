@@ -1,2 +1,2 @@
-these are REALLY REALLY BAD SOLUTIONS because I decided to use JAVA like an IDIOT womp womp :(
-if it can run on github codespaces then there are no optimization issues :)
+idk what happened but there's issues with committing changes and i'm too lazy to fix it tbh
+i lwk gave up :0
